@@ -27,4 +27,5 @@ With the knowledge of creating scatter plots with Plotly Express and hvplot, we 
 
 
 Also, we created a table with all the currently tradable cryptocurrencies using the hvplot.table() function. The below image shows the table we created.
+
 ![5](https://user-images.githubusercontent.com/95719819/167287554-32f90824-8767-4476-8716-98b157f89f47.png)
